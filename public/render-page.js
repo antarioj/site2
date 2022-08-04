@@ -6874,24 +6874,24 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!************************************************************!*\
-  !*** external "/sandbox/node_modules/react-dom/server.js" ***!
-  \************************************************************/
+/*!******************************************************************!*\
+  !*** external "/project/site2/node_modules/react-dom/server.js" ***!
+  \******************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/sandbox/node_modules/react-dom/server.js");
+module.exports = require("/project/site2/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!*******************************************************!*\
-  !*** external "/sandbox/node_modules/react/index.js" ***!
-  \*******************************************************/
+/*!*************************************************************!*\
+  !*** external "/project/site2/node_modules/react/index.js" ***!
+  \*************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/sandbox/node_modules/react/index.js");
+module.exports = require("/project/site2/node_modules/react/index.js");
 
 /***/ })
 
